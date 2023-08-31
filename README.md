@@ -10,10 +10,7 @@
   Welcome to my LeetCode problem solutions repository! 🚀 Here, you'll find elegant Python solutions to a variety of problems, meticulously organized by categories. Each solution is accompanied by a detailed explanation and well-crafted code implementation.
 </p>
 
-<p>
-   All Problem : [Leetcode-75](https://leetcode.com/studyplan/leetcode-75/)
-</p>
-
+All Problem : [Leetcode-75](https://leetcode.com/studyplan/leetcode-75/)
 
 
 ---
